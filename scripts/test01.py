@@ -10,7 +10,7 @@ class Test_01:
         assert  a !=2
 
     @pytest.mark.parametrize('b',[4,5,6])
-    def tes_002(self,b):
+    def test_002(self,b):
         allure.sttach('描述','我是测试步骤test_002的描述...')
         assert b != 3
 
