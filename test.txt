@@ -1,7 +1,5 @@
 hello
 
-这是一个新项目
-
-更新了
+This is a new project
 
 changed
